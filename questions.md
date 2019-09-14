@@ -1,12 +1,19 @@
 1. What do the numbers inside the parentheses after a function name do?
 The numbers (arguments) can adjust the size of the function name (instruction). I noticed that:
 createCanvas(800, 600); // size of the canvas.
+
 radius: random(50, 100) // bubble's size range.
+
 background(255); // Gray scale color of the canvas, #smaller than 255 will turn to a greyish color.
+
 fill(255, 200, 200, 200); // RGBA color code when the mouse touch the bubble, A=alpha=transparency.
+
 fill(255, 220, 200, 200); // original bubble’s RGBA color code. 
+
 bubble.x += random(-1, 1); // bubble's movement on the x-exit.
+
 bubble.y += random(-1, 1); // bubble's movement on the y-exit.
+
 2. What’s the difference between fill and stroke?
 Fill is the color inside the shape that you made and the stroke is the color of the line outside the shape. 
 I found out that the color of the bubble is “fill(255, 220, 200, 200)” 

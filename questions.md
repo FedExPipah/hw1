@@ -14,7 +14,7 @@ and it is a color code on RGB just like the pinkish color that’s demonstrated 
 But I didn’t find which number represents the black stroke around the bubbles. 
 I noticed that on P5 there is a reference for the square black stroke looks like 
 “strokeWeight(4);stroke(51);rect(20, 20, 60, 60)” which I couldn't find something similar on the demo bubble code.   
-3.Find out how you can open the Chrome console(keyboard shortcut).
+3. Find out how you can open the Chrome console(keyboard shortcut).
 I have a mac so for me it will be “Cmd+Opt+J” to open the chrome console. 
 4.Find a website that has errors,take a screenshot and upload it into your repository.
 I opened The New York Times "https://www.nytimes.com/" and I see some yellow triangles that might be errors,

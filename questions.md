@@ -25,6 +25,7 @@ I also noticed that on P5 there is a reference for the square black stroke looks
 It might just be like in video 1.4 said: "the default setting of the stroke is black".
 3. Find out how you can open the Chrome console(keyboard shortcut).
 I have a mac so for me it will be “Cmd+Opt+J” to open the chrome console. 
+
 4.Find a website that has errors,take a screenshot and upload it into your repository.
 I opened The New York Times "https://www.nytimes.com/" and I see some yellow triangles that might be errors.
 The screenshot is in another file.

@@ -3,7 +3,7 @@ The numbers (arguments) can adjust the size of the function name (instruction). 
 
 createCanvas(800, 600); // size of the canvas: 800x600.
 
-radius: random(50, 100) // bubble's size range: from radius 50~100.
+radius: random(50, 100); // bubble's size range: from radius 50~100.
 
 background(255); // Gray scale color of the canvas, #smaller than 255 will turn to a greyish color.
 

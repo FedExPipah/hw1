@@ -13,7 +13,8 @@ I found out that the color of the bubble is “fill(255, 220, 200, 200)”
 and it is a color code on RGB just like the pinkish color that’s demonstrated in class. 
 But I didn’t find which number represents the black stroke around the bubbles. 
 I noticed that on P5 there is a reference for the square black stroke looks like 
-“strokeWeight(4);stroke(51);rect(20, 20, 60, 60)” which I couldn't find something similar on the demo bubble code.   
+“strokeWeight(4);stroke(51);rect(20, 20, 60, 60)” which I couldn't find something similar on the demo bubble code.
+It might just be like in video 1.4 said: "the default setting of the stroke is black".
 3. Find out how you can open the Chrome console(keyboard shortcut).
 I have a mac so for me it will be “Cmd+Opt+J” to open the chrome console. 
 4.Find a website that has errors,take a screenshot and upload it into your repository.

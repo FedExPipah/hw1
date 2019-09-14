@@ -1,5 +1,6 @@
 1. What do the numbers inside the parentheses after a function name do?
 The numbers (arguments) can adjust the size of the function name (instruction). I noticed that:
+
 createCanvas(800, 600); // size of the canvas.
 
 radius: random(50, 100) // bubble's size range.

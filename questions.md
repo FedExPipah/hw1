@@ -2,9 +2,9 @@
 The numbers (arguments) can adjust the size of the function name (instruction). I noticed that:
 createCanvas(800, 600); // size of the canvas
 radius: random(50, 100) // bubble's size range 
-background(255); // color of the canvas, #smaller than 255 will turn to a greyish color
-fill(255, 200, 200, 200); // color code when the mouse touch the bubble
-fill(255, 220, 200, 200); // original bubble’s color code 
+background(255); // Gray scale color of the canvas, #smaller than 255 will turn to a greyish color
+fill(255, 200, 200, 200); // RGB color code when the mouse touch the bubble
+fill(255, 220, 200, 200); // original bubble’s RGB color code 
 bubble.x += random(-1, 1); // bubble's movement on x exit
 bubble.y += random(-1, 1); // bubble's movement on y exit
 2. What’s the difference between fill and stroke?

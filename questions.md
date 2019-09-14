@@ -23,6 +23,7 @@ But I didn’t find which number represents the black stroke around the bubbles.
 I also noticed that on P5 there is a reference for the square black stroke looks like 
 “strokeWeight(4);stroke(51);rect(20, 20, 60, 60)” which I couldn't find something similar on the demo bubble code.
 It might just be like in video 1.4 said: "the default setting of the stroke is black".
+
 3. Find out how you can open the Chrome console(keyboard shortcut).
 I have a mac so for me it will be “Cmd+Opt+J” to open the chrome console. 
 
